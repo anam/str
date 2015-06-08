@@ -1,0 +1,31 @@
+﻿body {
+}
+.ActionButtons{
+    clear:both;
+}
+.AddItemsButton{
+    float:right;
+}
+.ItemsButton{float:left}
+.AddItem td{padding-bottom:10px;padding-right:10px;}
+.AddItem{margin-left:150px;}
+.itemsdata hr{
+    padding:0px;
+    margin:0px;
+    margin-left:-8px;
+    margin-right:-8px;
+    border-color:#C0B8B8;
+}
+.errormessage{
+    color:red;
+    margin-left:150px;
+    margin-bottom:20px;
+}
+.successmessage{
+    color:blue;
+    margin-left:150px;
+    margin-bottom:20px;
+}
+.btnedit{
+    margin-right:5px;
+}
