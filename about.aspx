@@ -4,7 +4,7 @@
     About
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="maincontent" Runat="Server">
-    <table>
+    <table style="display:none;">
         <tr>
             <td colspan="2">
                 <h3>Management</h3>
